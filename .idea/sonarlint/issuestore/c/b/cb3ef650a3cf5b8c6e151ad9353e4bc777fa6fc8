@@ -1,0 +1,11 @@
+
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆºÿÿÿÿÿ8µ”Óü«,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÓ×­üÿÿÿÿ8Êâáü«,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦ú§˜8æßü«,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÕÃw8Êâáü«,
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆºÿÿÿÿÿ8µ”Óü«,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯‰åN8òóŞü«,
