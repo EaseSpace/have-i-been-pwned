@@ -12,9 +12,9 @@ public class RangeAPIImpl implements RangeAPI {
     private Client client = ClientBuilder.newClient();
 
     /**
-     * @param password
+     * @param password the password you want to know pwned or not
      * @return true if the password is pwned
-     * @throws NoSuchAlgorithmException
+     * @throws NoSuchAlgorithmException if SHA1 Algorithm is not available
      */
     public boolean isPwned(String password) throws NoSuchAlgorithmException {
         String hash = HashUtil.sha1(password).toUpperCase();
